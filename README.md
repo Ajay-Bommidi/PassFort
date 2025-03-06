@@ -1,7 +1,9 @@
-# 🔐 Advanced Password Strength Checker - PassFort
+![image](https://github.com/user-attachments/assets/0b25df6f-0f90-4ddd-a519-2b60dd34c6ee)# 🔐 Advanced Password Strength Checker - PassFort
 
 ## 🚀 Introduction
 PassFort is an advanced password strength checker designed for security-conscious users. It analyzes password strength using multiple factors, including length, character diversity, common patterns, entropy, and predictability. This tool helps users create and evaluate strong passwords while providing real-time feedback and improvement suggestions.
+![Screenshot 2025-03-06 102516](https://github.com/user-attachments/assets/21f36332-864c-41f1-afa5-f44bb38ecbeb)
+
 
 ## 🎯 Features
 - **Real-Time Strength Analysis**: Checks password strength based on length, complexity, entropy, and common vulnerabilities.
