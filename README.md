@@ -19,16 +19,26 @@ To use PassFort, ensure you have Python installed. Then, clone this repository a
 # Clone the repository
 git clone https://github.com/your-username/PassFort.git
 
-
 # Install required dependencies
 pip install -r requirements.txt
+```
+
+Create a `requirements.txt` file and add the following dependencies:
+
+```
+colorama
+secrets
+string
+math
+re
+getpass
 ```
 
 ## 🚀 Usage
 Run the script from the terminal:
 
 ```sh
-python password_checker.py
+python passfort.py
 ```
 
 ### 📝 How It Works
@@ -80,3 +90,5 @@ Contributions are welcome! Feel free to fork the repo, create issues, and submit
 
 ## ⚖️ License
 This project is licensed under the MIT License.
+
+
