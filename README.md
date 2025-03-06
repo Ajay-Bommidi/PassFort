@@ -17,21 +17,10 @@ To use PassFort, ensure you have Python installed. Then, clone this repository a
 
 ```sh
 # Clone the repository
-git clone https://github.com/your-username/PassFort.git
+https://github.com/Ajay-Bommidi/PRODIGY_CS_03.git
 
 # Install required dependencies
 pip install -r requirements.txt
-```
-
-Create a `requirements.txt` file and add the following dependencies:
-
-```
-colorama
-secrets
-string
-math
-re
-getpass
 ```
 
 ## 🚀 Usage
@@ -76,7 +65,7 @@ Do you want to check another password? (y/n): n
 ```
 
 ## 🔧 Customization
-- Change password length requirements in `password_checker.py`.
+- Change password length requirements in `passfort.py`.
 - Adjust entropy thresholds for stricter security policies.
 - Modify the `generate_strong_password()` function to customize character sets.
 
