@@ -19,9 +19,13 @@ To use PassFort, ensure you have Python installed. Then, clone this repository a
 
 ```sh
 # Clone the repository
-https://github.com/Ajay-Bommidi/PRODIGY_CS_03.git
+sudo git clone https://github.com/Ajay-Bommidi/PassFort.git
+sudo python3 -m venv myenv
+source myenv/bin/activate
+```
 
 # Install required dependencies
+```sh
 pip install -r requirements.txt
 ```
 
